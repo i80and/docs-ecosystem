@@ -1,6 +1,8 @@
 name = "drivers"
 title = "MongoDB Drivers"
 
+intersphinx = ["https://docs.mongodb.com/manual/objects.inv"]
+
 [constants]
 version = 4.0
 package-name-org = "docs-ecosystem"
