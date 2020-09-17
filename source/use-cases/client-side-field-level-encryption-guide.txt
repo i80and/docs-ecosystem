@@ -27,7 +27,7 @@ information in the context of a real-world scenario:
 .. admonition:: Download the Code
 
    For a runnable example of all the functionality demonstrated in this guide,
-   see the :ref:`Download Example Project <download-example-project>` section.
+   see the :ref:`Download Example Project <Download-example-project>` section.
 
 Introduction
 ------------
