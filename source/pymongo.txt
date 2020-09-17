@@ -1,8 +1,8 @@
 .. include:: /includes/unicode-checkmark.rst
 
-=======
-PyMongo
-=======
+================
+``PyMongo`` Test
+================
 
 .. default-domain:: mongodb
 
