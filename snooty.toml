@@ -1,6 +1,7 @@
 name = "drivers"
 title = "MongoDB Drivers"
 
+intersphinx = ["https://docs-mongodbcom-staging.corp.mongodb.com/9e4a15f/bi-connector/docsworker/v0.6.2-test/objects.inv"]
 toc_landing_pages = ["/python", "/php", "/java-drivers", "/use-cases"]
 
 [constants]
